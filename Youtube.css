@@ -1,0 +1,362 @@
+body{
+    background-color: #121212;
+}
+
+header{
+    background-color: #121212;
+    height: 80px;
+}
+.search{
+    position: relative;
+    background-color: #121212;
+    height: 40px;
+    width: 540px;
+    margin: 1px 600px 0 430px;
+    border-radius: 100px 0px 0px 100px;
+    font-size: 16px;
+    color: #fff;
+    font-style: normal;
+    padding: 0 10px;
+    border-color: none;
+}
+
+#Search-1{
+    position: absolute;
+    height: 80px;
+    margin: -100px 932px;
+}
+
+#Menu{
+    position: absolute;
+    height: 70px;
+    margin: -95px -35px;
+}
+
+#YouTube{
+    position: absolute;
+    height: 50px;
+    margin: -85px 35px;
+}
+
+#Perfil-1{
+    height: 30px;
+    margin: -75px 1450px;
+    border-radius: 100% 100% 100% 100%;
+}
+
+#Sininho-1{
+    height: 80px;
+    margin: -100px 1335;
+}
+
+#Cria-1{
+    height: 90px;
+    margin: -105px 1270px;
+}
+
+h2{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    position: absolute;
+    color: #fff;
+    width: 100px;
+    margin: 7px 100px;
+}
+
+.button{
+    position: relative;
+    background-color: #252323;
+    height: 40px;
+    width: 70px;
+    margin: -40px 970px ;
+    border-radius: 0px 100px 100px 0px;
+    border-color: none;
+}
+
+.Tela{
+    background-color: #fff;
+    height: 500px;
+    width: 880px;
+    margin-top: 0;
+    margin-left: 100px;
+}
+
+iframe{
+    position: absolute;
+    height: 500px;
+    width: 880px;
+}
+
+.Info{
+    background-color: #121212;
+    height: 500px;
+    width: 880px;
+    margin-top: -5px;
+    margin-left: 100px;
+
+}
+
+h3{
+    height: 30px;
+    color: #fff;
+    font-size: 18px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode';
+    font-weight: bold;
+}
+
+.Canal{
+    background-color: #fff;
+    width: 100px;
+    border-radius: 100px;
+    margin-top: -17px;
+}
+
+#Dio-1{
+    height: 40px;
+    position: absolute;
+    border-radius: 100px;
+    margin: -445px 100px;
+}
+
+h4{
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode';
+    margin: -460px 150px;
+    color: #fff;
+}
+
+#ins{
+    font-size: 15px;
+    margin: 460px 150px;
+}
+
+.Inscrito{
+    margin: -500px 300px;
+    background-color: #252323;
+    height: 35px;
+    width: 130px;
+    border-radius: 100px;
+    align-items: center;
+    
+}
+
+h5{
+    color: #fff;
+    position: absolute;
+    font-size: 15px;
+    font-weight: bold;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode';
+    margin: 472px 340px;
+}
+
+#sini{
+    height: 70px;
+    margin: -20px -40px;
+}
+
+#Seta-1{
+    height: 45px;
+    margin: 460px 370px;
+}
+
+.Curti{
+    position: absolute;
+    background-color: #252323;
+    height: 40px;
+    width: 150px;
+    border-radius: 100px;
+    margin: -510px 595px;
+}
+
+#like{
+    
+    position: absolute;
+    height: 80px;
+    margin: -20px -40px;
+}
+
+#deslike{
+    position: absolute;
+    height: 80px;
+    margin: -20px 50px;
+
+}
+
+#Traço{
+    position: absolute;
+    color: #fff;
+    font-size: 25px;
+    font-weight: bold;
+    margin: -506px 670px;
+}
+
+.Point{
+    position: absolute;
+    background-color: #252323;
+    height: 45px;
+    width: 45px;
+    margin: -514px 935px;
+    border-radius: 100px;
+    
+}
+
+#Pont{
+    color: #fff;
+    font-weight: bold;
+    font-size: 16px;
+    margin: 10px 12px;
+}
+
+.Comp{
+    position: absolute;
+    background-color: #252323;
+    height: 40px;
+    width: 160;
+    margin: -510px 760px;
+    border-radius: 100px;
+}
+
+#Compartilhar-1{
+    height: 80px;
+    margin: -58px -45px;
+}
+
+#Cp{
+    font-size: 16px;
+    font-weight: bold;
+    margin: 10px 48px;
+}
+
+.Outros{
+    position: absolute;
+    background-color: #121212;
+    height: 1400px;
+    width: 510px;
+    margin-left: 1000px;
+    margin-top: -500px;
+}
+
+img{
+    border-radius: 10px;
+    padding-bottom: 8px;
+}
+
+.Text{
+    position: absolute;
+    background-color: #121212;
+    height: 1400px;
+    width: 230px;
+    margin-top: -500px;
+    margin-left: 1170px;
+    padding: 0;
+}
+h1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    color: #fff;
+    margin-top: 0;
+   
+}
+p{
+    font-size: 15px;
+    color: rgba(215, 214, 214, 0.659);
+    margin: 10px 0;
+}
+#T1{
+    position: relative;
+    height: 95px;
+    margin-bottom: 10px;
+}
+
+#T2{
+    position: relative;
+    height: 92px; 
+    margin-bottom: 10px;
+    margin-top: -1;
+}
+
+#T3{
+    position: relative;
+    height: 92px;
+    margin-bottom: 10px;
+    margin-top: -1;
+}
+
+#T4{
+    position: relative;
+    height: 93px;
+    margin-bottom: 10px;
+    margin-top: -1;
+}
+
+#T5{
+    position: relative;
+    height: 94px;
+    margin-bottom: 10px;
+    margin-top: -1;
+}
+
+#T6{
+    position: relative;
+    height: 94px;
+    margin-bottom: 10px;
+    margin-top: -1;
+}
+#T7{
+    position: relative;
+    height: 92px;
+    margin-bottom: 10px;
+    margin-top: -1;
+}
+
+#T8{
+    position: relative;
+    height: 93px;
+    margin-bottom: 10px;
+    margin-top: -1;
+}
+
+#T9{
+    position: relative;
+    height: 94px;
+    margin-bottom: 10px;
+    margin-top: -1;
+}
+
+#T10{
+    position: relative;
+    height: 90px;
+    margin-bottom: 10px;
+    margin-top: -1;
+}
+
+#T11{
+    position: relative;
+    height: 95px;
+    margin-bottom: 10px;
+    margin-top: -1;
+}
+
+#T12{
+    position: relative;
+    height: 94px;
+    margin-bottom: 10px;
+    margin-top: -1;
+}
+
+#T13{
+    position: relative;
+    height: 90px;
+    margin-bottom: 10px;
+    margin-top: -1;
+}
+
+#T14{
+    position: relative;
+    height: 95px;
+    margin-bottom: 10px;
+    margin-top: -1;
+}
+   
